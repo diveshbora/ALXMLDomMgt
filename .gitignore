@@ -1,0 +1,6 @@
+## Ignore AL Extension files
+
+# Ignore AL Package files, Build files
+*.app
+.altemplates
+.alcache

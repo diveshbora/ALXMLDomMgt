@@ -1,0 +1,47 @@
+{
+	"folders": [
+		{
+			"path": "MainApp"
+		}
+	],
+	"settings": {
+		"al.packageCachePath": "./.alpackages",	
+		"al.enableCodeAnalysis": true,
+		"al.codeAnalyzers": [
+			"${CodeCop}",        
+			"${UICop}",
+			"${PerTenantExtensionCop}"
+		],
+		"CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+		"CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+		"CRS.FileNamePatternPageCustomizations": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+		"CRS.OnSaveAlFileAction": "Rename",
+		"CRS.ObjectNamePrefix": "DIV",
+		"CRS.RenameWithGit": true
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-dynamics-smb.al",
+			"advaniagit.advaniagit",
+			"andrzejzwierzchowski.al-code-outline",
+			"BartPermentier.al-toolbox",
+			"ClipDynamics.al-language-tools",
+			"donjayamanne.githistory",
+			"eamodio.gitlens",
+			"felipe-mendes.slack-theme",
+			"Kine.navertical",
+			"martonsagi.al-object-designer",			
+			"ms-vsts.team",
+			"mynavblog-kbialowas.al-snippets",
+			"NAVBaaS.git",
+			"rasmus.al-formatter",
+			"rasmus.al-var-helper",
+			"waldo.crs-al-language-extension",
+			"ms-vscode.powershell",
+			"humao.rest-client",
+			"gruntfuggly.todo-tree",
+			"wayou.vscode-todo-highlight"
+
+		]
+	}
+}

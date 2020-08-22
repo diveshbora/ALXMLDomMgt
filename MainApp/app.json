@@ -1,0 +1,39 @@
+{
+  "id": "c81f1b78-b8eb-4f95-af02-940d0b5c4dc2",
+  "name": "AL XML DOM Mgt",
+  "publisher": "Divesh Bora",
+  "version": "1.0.0.0",
+  "brief": "AL XML DOM Mgt",
+  "description": "AL XML DOM Mgt",
+  "privacyStatement": "https://ALXMLDomMgt.com/help/",
+  "EULA": "https://ALXMLDomMgt.com/help/",
+  "help": "https://ALXMLDomMgt.com/help/",
+  "url": "https://ALXMLDomMgt.com/help/",
+  "logo": "logo\\logo.png",
+  "dependencies": [
+    {
+      "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "16.0.0.0"
+    },
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "16.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "16.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://ALXMLDomMgt.com/help/",
+  "showMyCode": true,
+  "features": ["TranslationFile"],
+  "runtime": "5.0"
+}
